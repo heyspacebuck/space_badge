@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "spacebadge")(type KiCad)(uri "$(KIPRJMOD)/spacebadge.pretty")(options "")(descr ""))
+)

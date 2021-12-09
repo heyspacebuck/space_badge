@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Jumper_3_Bridged12_Small
+D Jumper, 3-pole, pins 1+2 closed/bridged
+K Jumper SPDT
+F ~
+$ENDCMP
+#
+$CMP TTP223-BA6
+D Single-key Touch Sensor, SOT-23-6
+K Touch Sensor Key
+F https://datasheet.lcsc.com/lcsc/2103021107_Tontek-Design-Tech-TTP223-BA6_C2757936.pdf
+$ENDCMP
+#
+#End Doc Library
