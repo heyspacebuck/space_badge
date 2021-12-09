@@ -20,6 +20,8 @@ I'm happy with the badge for myself, but if I were making one for someone else, 
 
 ![KiCad render of an updated PCB badge circuit](not_qdot.png)
 
+![Schematic of an updated PCB badge circuit](schematic_v2.png)
+
 ### Power consumption
 
 It should be easy to set up deep-sleep mode on the ATtiny85 and wait for an interrupt to turn the LEDs on. I suppose it's still possible to update this version to do that; I'd just have to update the code. In fact, I think I will do that!

@@ -4,9 +4,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "Space Buck's Space Badge"
 Date ""
-Rev ""
+Rev "v2"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -683,7 +683,7 @@ Connection ~ 1875 2300
 Wire Wire Line
 	1875 2300 2075 2300
 Text Notes 1825 1375 0    50   ~ 0
-Selecting PROG resistor: I = 1000/R\n1kΩ: 1.0 A\n2kΩ: 0.5 A
+Selecting PROG resistor R3: I = 1000/R\n1kΩ: 1.0 A\n2kΩ: 0.5 A
 Text Notes 2850 1375 2    50   ~ 0
 5kΩ: 0.2 A\n10kΩ: 0.1 A
 $Comp
